@@ -4,6 +4,7 @@ import HomePage from './pages/HomePage';
 import RegionPage from './pages/RegionPage';
 import ArtifactPage from './pages/ArtifactPage';
 
+
 const App: React.FC = () => {
   return (
     <Router>
